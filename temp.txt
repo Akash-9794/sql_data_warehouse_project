@@ -1,0 +1,4 @@
+SQL Data Warehouse Project — Data Engineering  ·  2025  ·  GitHub
+
+Designed and built a 3-layer Medallion Architecture (Bronze → Silver → Gold) on SQL Server — ingesting raw ERP & CRM CSV data, applying cleansing and normalization in the Silver layer, and modeling a Star Schema in the Gold layer optimized for analytical queries.
+Built end-to-end ETL pipelines to extract, transform, and load data from two source systems; resolved data quality issues and integrated both sources into a unified data model.
